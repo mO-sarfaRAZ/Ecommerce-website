@@ -16,6 +16,6 @@ To set up the Ecommerce Website on your local machine, follow these steps:
 ## 3. Technologies Used
 Our website leverages a combination of cutting-edge technologies to deliver a robust and reliable shopping experience:
 
-Front-end: HTML, CSS, JavaScript, React.js
-Back-end: Node.js, Express.js
-Database: MongoDB
+1. Front-end: HTML, CSS, JavaScript
+2. Back-end: Node.js, Express.js
+3. Database: MongoDB
